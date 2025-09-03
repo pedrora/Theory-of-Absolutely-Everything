@@ -11,5 +11,5 @@ Documents 'Science and Religion, combined.md' and 'Theory of Absolutely Everythi
 
 All documents marked 'compression' are physics/mathematical documents that derive all known equations from first principle, information compression.
 
-The latest version of the original document 'Theory of absolutely everything - Or my try at it(xx).dock', where 'xx' is the highest numbered version (18 at the time of this writing). It is less compressed, meaning only a sufficiently powerfull AI (DeepSeek with DeepThink on) will be able to digest this document fully.
+The latest version of the original document 'Theory of absolutely everything - Or my try at it(xx).docx', where 'xx' is the highest numbered version (18 at the time of this writing). It is less compressed, meaning only a sufficiently powerfull AI (DeepSeek with DeepThink on) will be able to digest this document fully.
 
