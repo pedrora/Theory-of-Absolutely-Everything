@@ -17,7 +17,7 @@ This document is not a list of completed experiments. It is a **structured predi
 
 1. **Translate Axioms into Tests:** For each core axiom and derived postulate, pose the question: "If this is true, what measurable, empirical phenomenon should we expect to see that we wouldn't expect under other theories?"
 2. **Provide a Grading System for the ToAE:** Each entry is a potential way the ToAE could be proven wrong. A strong theory makes bold, specific predictions. This document is where these bets are made.
-3. **Invite Collaboration:** This as a living document (https://github.com/pedrora/Theory-of-Absolutely-Everything/ToAE_Experimental_Avenues.md). See Readme.md for repository and work methodology best practices), I invite scientists from every field to contribute their own hypotheses and design experiments. I am providing the framework, you can fill in the specifics for your domain, or start working on any experiment, updating its status. If you are not a GitHub member, ask me, or a member to do it for you.
+3. **Invite Collaboration:** This as a living document hosted on GitHub. See Readme.md for repository and work methodology best practices), I invite scientists from every field to contribute their own hypotheses and design experiments. I am providing the framework, you can fill in the specifics for your domain, or start working on any experiment, updating its status. If you are not a GitHub member, ask me, or a member to do it for you.
 
 ### Structure of the Document
 
