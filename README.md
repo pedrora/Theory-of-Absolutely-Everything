@@ -41,4 +41,4 @@ The 'core' document provides axioms and an serves as a guide to the other docume
 
 ---
 
-The prior documents produced by this theory and contained in the 'legacy' branch.
+The prior documents produced by this theory are contained in the 'legacy' branch.
