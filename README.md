@@ -33,6 +33,12 @@ The 'core' document provides axioms and an serves as a guide to the other docume
 9. ToAE - Appendix: Derivation of the Fractalof Functional from First Principles
    This appendix is the 'house key' to the ToAE edifice. It unabridgedly links the core operation of reality as a necessity of information manipulation, giving rise to our familiar three dimensions of space and one dimension of time. These dimensions are uniquely efficient for implementing information into matter, with the emergent mechanism (consciousness at our scale) arising from this necessity.
 
+10. ToAEx-0 - Experimental Framework for the Theory of Absolutely Everything
+    The reference document to guide the practical handling and documenting of the experimental ToAEx documents
+
+11. ToAEx-001 - Galactic Rotation via Informational Smoothing
+    The first ready to go test, awaiting scientists that wish to confirm that the ToAE can indeed explain Dark Matter
+
 ---
 
 The prior documents produced by this theory and contained in the 'legacy' branch.
