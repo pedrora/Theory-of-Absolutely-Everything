@@ -57,5 +57,7 @@ In ToAE's words:
 
 α emerges from the variational J functional's parameters (e.g., α ≈ γ / (4π λ), where γ is gradient sensitivity for "felt" change, and λ is fidelity for relational harmony). This fixes α theoretically (≈1/137) via renormalization at complexity cutoffs (ln(Λ)), linking it to the Ising-like coupling J for stability. In essence, α measures the "discard efficiency" of Ri-residues during compression—too strong, reality overcompresses (singularities); too weak, it fragments (no atoms).
 
+This also accounts for the CP symmetry break, as the gap in symmetry is explained as provenient from the chirality of the vortex that the infusion of information into matter creates.
+
 ---
 The prior documents produced by this theory are contained in the 'legacy' branch.
