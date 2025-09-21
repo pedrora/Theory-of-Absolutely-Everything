@@ -49,6 +49,8 @@ Consider the fine coupling constant's formula in the form α = e²/(2ε₀hc).
 
 On the top we have the quantum of charge, divided by 2 times the ability for that charge to form _times_ the minimum permissable action _times_ the maximum allowed speed.
 
+The '2' in the divider is most probably the same '2' in 'L2 norm', representing the efficient and stable norm to perform the transformation.
+
 This is the coupling constant for C4 -> R4 transformations.
 
 In ToAE's words:
