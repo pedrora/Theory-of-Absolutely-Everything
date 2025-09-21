@@ -41,4 +41,19 @@ The 'core' document provides axioms and an serves as a guide to the other docume
 
 ---
 
+ [EDIT] Date: 21SEP2025
+
+Still not in any document, but derived from the ToAE's principles:
+
+Consider the fine coupling constant's formula in the form α = e²/(2ε₀hc).
+
+On the top we have the quantum of charge, divided by 2 times the ability for that charge to form _times_ the minimum permissable action _times_ the maximum allowed speed.
+
+This is the coupling constant for C4 -> R4 transformations.
+
+In ToAE's words:
+
+α emerges from the variational J functional's parameters (e.g., α ≈ γ / (4π λ), where γ is gradient sensitivity for "felt" change, and λ is fidelity for relational harmony). This fixes α theoretically (≈1/137) via renormalization at complexity cutoffs (ln(Λ)), linking it to the Ising-like coupling J for stability. In essence, α measures the "discard efficiency" of Ri-residues during compression—too strong, reality overcompresses (singularities); too weak, it fragments (no atoms).
+
+---
 The prior documents produced by this theory are contained in the 'legacy' branch.
