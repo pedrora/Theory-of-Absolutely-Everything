@@ -12,6 +12,7 @@ and
 _ToAE foundational - theorem_ - theorem of Finite Self-Reference Impossibility
 
 and 
+
 _ToAE foundational - persistence recursion and force under finite self-reference_ - and why it must be fractal until a yet unknown topology that meets all conditions exists.
 
 These three documents represent the logical bedrock of the entire theory. If you want to really understand the inner workings, they are indispensable.
