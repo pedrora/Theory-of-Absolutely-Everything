@@ -1,77 +1,57 @@
 # Theorem (Finite Self-Reference Impossibility)
 
-Author: Pedro R. Andrade
-Date: 05JAN2026
+**Author:** Pedro R. Andrade\
+**Date:** 06JAN2026
 
 ___
 
-**Theorem.**\
-Let $R$ be a finite system capable of recursive self-reference. There exists no lossless, complete internal representation $M(R) \subseteq R$ such that $M(R)$ fully determines the behavior and evolution of $R$.
+## Definitions
 
-**Proof.**\
-Any complete, lossless representation of $R$ must encode:
+**Definition 1 (Finite Dynamical System).**\
+A _finite dynamical system_ $R$ is a system whose complete state space and evolution rule admit a finite description. Let $MDL(R)$ denote the minimum description length required to encode the full state, dynamics, and update rules of $R$.
 
-1. The full state of $R$,
+**Definition 2 (Internal Model).**\
+An _internal model_ $M(R)$ of a system $R$ is any encoding instantiated entirely within $R$ whose description length is bounded above by the description length of the system that instantiates it:
 
-2. The dynamics governing its evolution,
+$$MDL(M(R)) \lt MDL(R)$$
 
-3. The act of representation itself.
+**Definition 3 (Lossless Self-Representation).**\
+An internal model $M(R)$ is _lossless_ iff the exact trajectory of R can be reconstructed from M(R) without access to any information external to R.
 
-Encoding (1–3) requires informational and computational resources at least equivalent to $R$, plus additional resources to distinguish representation from execution. Therefore, any system $R$ attempting to fully represent itself requires a representational space strictly larger than $R$, contradicting finiteness. 
+## Theorem
 
-**Consequence.**\
-All internal self-models of $R$ are necessarily partial, approximate, or lossy.
+Let $R$ be a finite dynamical system capable of recursive self-reference.
 
-## Corollary 1 (Non-Existence of a Self-Referential Fixed Point)
+There exists no internal model $M(R)$ such that $M(R)$ is both lossless and fully determines the behavior and evolution of $R$.
 
-**Corollary.**\
-Recursive self-modeling in a finite system admits no convergent fixed point.
+## Proof
 
-Formally:
+Assume, for contradiction, that such a model $M(R)$ exists.
 
-$$\nexists M^* \text{such that } R = f(M^*)$$
+Because $M(R)$ is lossless, it must encode sufficient information to reconstruct:
 
-where $f$ is a lossless reconstruction operator.
+1. the complete state of $R$,
 
-**Reason.**\
-A fixed point would constitute a complete internal self-representation, which is forbidden by the theorem.
+2. the dynamical evolution rule of $R$,
 
-## Corollary 2 (Bounded Recursion Requirement)
+3. the conditions under which reconstruction occurs.
 
-**Corollary.**\
-For a self-referential system to persist, recursive self-modeling must be:
+Therefore, the description length of $M(R)$ must satisfy:
 
-1. **Non-convergent** (no total self-representation),
+$$MDL(M(R)) \ge MDL(R)$$
 
-2. **Non-divergent** (coherence must be preserved),
+However, since $M(R)$ is an internal model instantiated within $R$, by Definition 2 it must satisfy:
 
-3. **Scale-invariant** (the same limitation applies at every recursive level).
+$MDL(M(R)) \lt MDL(R)$
 
-Any recursion violating one of these conditions results in triviality (collapse), incoherence (divergence), or non-viability.
+This is a contradiction.
 
-## Corollary 3 (Fractal Necessity)
+Hence, no internal, lossless, complete self-representation of a finite self-referential system exists. 
 
-**Corollary (Fractalof Necessity).**\
-The only stable structural class satisfying bounded, non-convergent, scale-invariant recursion under finite self-reference is a fractal structure.
+## Immediate Consequence
 
-Therefore, any viable self-referential finite system must generate self-similar recursive approximations of itself across scales.
+All internal self-models of finite self-referential systems are necessarily partial, approximate, or lossy.
 
-## Definition (fractalof Operator)
+## Interpretive Remark
 
-**Definition.**\
-Let $R$ be a finite self-referential system.\
-The **fractalof() operator** is the minimal transformation that generates a bounded, scale-invariant family of partial self-models of $R$ sufficient to sustain recursive self-reference without convergence or divergence.
-
-Symbolically (schematic):
-$$\text{fractalof}(R) = \{ M_n(R) \mid M_n \text{ partial}, M_{n+1} = g(M_n), \sup_n |M_n| < \infty \}$$
-## Interpretive Remark 
-
-> Consciousness and experience are not additional properties introduced by fractal recursion; they are the internal instantiation cost of maintaining recursive self-reference under the impossibility of complete self-representation.
-
-___
-
-This document was produced and refined with the help of artificial intelligence.
-
-This document and related documents can be accessed at [https://github.com/pedrora/Theory-of-Absolutely-Everything]
-
-All documents of this theory are released under the _Creative Commons Zero v1.0 Universal_ license and are public domain.
+This impossibility is structural, not epistemic. It follows solely from finiteness, internality, and self-reference, independent of substrate, semantics, or implementation.
