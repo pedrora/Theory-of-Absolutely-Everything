@@ -3,6 +3,16 @@ This is a set of document that propose a metaphysical and mathematical framework
 
 It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549].
 
+Still not in Zenodo - Added (05JAN2026) documents:
+
+_ToAE foundational - The Ultimate Bottleneck_ - On finite self reference impossibility and the emergence of fractality and subjectivity
+
+and
+
+_ToAE foundational - theorem_ - theorem of Finite Self-Reference Impossibility
+
+These two documents represent the logical bedrock of the entire theory. If you want to really understand the inner workings, they are indispensable.
+
 The 'core' document provides axioms and an serves as a guide to the other documents
 
 1. Theory of Absolutely Everything (ToAE) — Physicist/Mathematician Monograph  
