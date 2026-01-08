@@ -3,19 +3,9 @@ This is a set of document that propose a metaphysical and mathematical framework
 
 It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549].
 
-Still not in Zenodo - Added (05JAN2026) documents:
+Still not in Zenodo - Added (07JAN2026) documents:
 
-_ToAE foundational - The Ultimate Bottleneck_ - On finite self reference impossibility and the emergence of fractality and subjectivity
-
-and
-
-_ToAE foundational - theorem_ - theorem of Finite Self-Reference Impossibility
-
-and 
-
-_ToAE foundational - persistence recursion and force under finite self-reference_ - and why it must be fractal until a yet unknown topology that meets all conditions exists.
-
-These three documents represent the logical bedrock of the entire theory. If you want to really understand the inner workings, they are indispensable.
+0. **ToAE Foundational - On Finite Self Reference - Consciousness and experience** - This document represents the logical bedrock of the entire theory. If you want to really understand the inner workings, this is indispensable. It establishes precise definitions for _consciousness_, _experience_, _self_ and _force_, derived from the logical consequence of any system representation being bounded by itself. It also identifies _fractality_ as the only viable topology for such scale invariant systems, directly identifying the necessity of a _fractalof()_ operator
 
 The 'core' document provides axioms and an serves as a guide to the other documents
 
