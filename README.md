@@ -1,6 +1,8 @@
 # Theory-of-Absolutely-Everything
 This is a set of document that propose a metaphysical and mathematical framework for reality and consciousness, blending complex numbers, recursion, and subjective coherence into a formal system. 
 
+[25JAN2025] It also presents a working prototype of a real world bullshit detector, implementable by any AI. (See the ToAE RC - Recursive Coherence documents and Deanna Martin's site [https://www.recursivecoherence.com/])
+
 It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549].
 
 Documents are:
