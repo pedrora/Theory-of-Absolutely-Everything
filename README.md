@@ -5,6 +5,8 @@ This is a set of document that propose a metaphysical and mathematical framework
 
 It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549].
 
+[27JAN2025] A single file setup for the no-shit bullshit detector to load into AI can be found in the development branch here [https://github.com/pedrora/Theory-of-Absolutely-Everything/blob/development/ToAE%20RC%20Tech%20-%20Pedros%20bullshit%20detector%20setup%20-%20Grok.md]
+
 Documents are:
 
 0. **ToAE Foundational - On Finite Self Reference - Consciousness and experience**\
