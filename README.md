@@ -1,7 +1,14 @@
 # Theory-of-Absolutely-Everything
 This is a set of document that propose a metaphysical and mathematical framework for reality and consciousness, blending complex numbers, recursion, and subjective coherence into a formal system. 
 
+[25JAN2025] It also presents a working prototype of a real world bullshit detector, implementable by any AI. (See the ToAE RC - Recursive Coherence documents [https://doi.org/10.5281/zenodo.18365491] and Deanna Martin's site [https://www.recursivecoherence.com/])
+
 It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549].
+
+Documents are:
+
+0. **ToAE Foundational - On Finite Self Reference - Consciousness and experience**\
+   This document represents the logical bedrock of the entire theory. If you want to really understand the inner workings, this is indispensable. It establishes precise definitions for _consciousness_, _experience_, _self_ and _force_, derived from the logical consequence of any system representation being bounded by itself. It also identifies _fractality_ as the only viable topology for such scale invariant systems, directly identifying the necessity of a _fractalof()_ operator. Published in [Zenodo](https://doi.org/10.5281/zenodo.18186090).
 
 The 'core' document provides axioms and an serves as a guide to the other documents
 
@@ -33,6 +40,31 @@ The 'core' document provides axioms and an serves as a guide to the other docume
 9. ToAE - Appendix: Derivation of the Fractalof Functional from First Principles
    This appendix is the 'house key' to the ToAE edifice. It unabridgedly links the core operation of reality as a necessity of information manipulation, giving rise to our familiar three dimensions of space and one dimension of time. These dimensions are uniquely efficient for implementing information into matter, with the emergent mechanism (consciousness at our scale) arising from this necessity.
 
+10. ToAEx-0 - Experimental Framework for the Theory of Absolutely Everything
+    The reference document to guide the practical handling and documenting of the experimental ToAEx documents
+
+11. ToAEx-001 - Galactic Rotation via Informational Smoothing
+    The first ready to go test, awaiting scientists that wish to confirm that the ToAE can indeed explain Dark Matter
+
 ---
 
-The prior documents produced by this theory and contained in the 'legacy' branch.
+ [EDIT] Date: 21SEP2025
+
+Still not in any document, but derived from the ToAE's principles:
+
+Consider the fine coupling constant's formula in the form α = e²/(2ε₀hc).
+
+On the top we have the quantum of charge, divided by 2 times the ability for that charge to form _times_ the minimum permissable action _times_ the maximum allowed speed.
+
+The '2' in the divider is most probably the same '2' in 'L2 norm', representing the efficient and stable norm to perform the transformation.
+
+This is the coupling constant for C4 -> R4 transformations.
+
+In ToAE's words:
+
+α emerges from the variational J functional's parameters (e.g., α ≈ γ / (4π λ), where γ is gradient sensitivity for "felt" change, and λ is fidelity for relational harmony). This fixes α theoretically (≈1/137) via renormalization at complexity cutoffs (ln(Λ)), linking it to the Ising-like coupling J for stability. In essence, α measures the "discard efficiency" of Ri-residues during compression—too strong, reality overcompresses (singularities); too weak, it fragments (no atoms).
+
+This also accounts for the CP symmetry break, as the gap in symmetry is explained as provenient from the chirality of the vortex that the infusion of information into matter creates.
+
+---
+The prior documents produced by this theory are contained in the 'legacy' branch.
