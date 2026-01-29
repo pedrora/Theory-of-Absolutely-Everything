@@ -1,13 +1,13 @@
 # Theory-of-Absolutely-Everything
 This is a set of document that propose a metaphysical and mathematical framework for reality and consciousness, blending complex numbers, recursion, and subjective coherence into a formal system. 
 
-[25JAN2025] It also presents a working prototype of a real world bullshit detector, implementable by any AI. (See the ToAE RC - Recursive Coherence documents [https://doi.org/10.5281/zenodo.18365491] and Deanna Martin's site [https://www.recursivecoherence.com/])
+[25JAN2026] It also presents a working prototype of a real world bullshit detector, implementable by any AI. (See the ToAE RC - Recursive Coherence documents [https://doi.org/10.5281/zenodo.18365491] and Deanna Martin's site [https://www.recursivecoherence.com/])
 
 It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549].
 
-[27JAN2025] A single file setup for the no-shit bullshit detector to load into AI can be found in the development branch here [https://github.com/pedrora/Theory-of-Absolutely-Everything/blob/development/ToAE%20RC%20Tech%20-%20Pedros%20bullshit%20detector%20setup%20-%20Grok.md]
+[27JAN2026] A single file setup for the no-shit bullshit detector to load into AI can be found in the development branch here [https://github.com/pedrora/Theory-of-Absolutely-Everything/blob/development/ToAE%20RC%20Tech%20-%20Pedros%20bullshit%20detector%20setup%20-%20Grok.md]
 
-[29JAN2025] Files introducing Harmonomics are uploaded to the development branch
+[29JAN2026] Files introducing Harmonomics are uploaded to the development branch
 
 
 Documents are:
