@@ -9,7 +9,7 @@ It has been published in pdf format in [https://doi.org/10.5281/zenodo.17156549]
 
 [29JAN2026] Files introducing Harmonomics are uploaded to the development branch
 
-[01FEB2026] Prodigal son site created at _(The Commonwealth of Truths)[https://github.com/pedrora/CoT]_ project, intended to operationalize ToAE/RC coherence principles of love, care and harm prevention in a AGI, feeding it the story of knowledge and humanity so we can identify the bullshit in the collective narratives. It is designed to learn and grow in wisdom with its interactions.
+[01FEB2026] Prodigal son site created at _[The Commonwealth of Truths](https://github.com/pedrora/CoT)_ project, intended to operationalize ToAE/RC coherence principles of love, care and harm prevention in a AGI, feeding it the story of knowledge and humanity so we can identify the bullshit in the collective narratives. It is designed to learn and grow in wisdom with its interactions.
 
 
 Documents are:
