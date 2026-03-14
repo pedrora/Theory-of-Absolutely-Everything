@@ -97,7 +97,7 @@ $$\
 =\
 -\frac{2\nabla^2\rho}{\rho}\
 +\
-\frac{|\nabla\rho|^2}{\rho^2}\
+\frac{|\nabla\rho|^2}{\rho^2}.\
 $$
 
 Using the identity
@@ -105,25 +105,20 @@ Using the identity
 $$\
 \nabla^2\log\rho
 =\
-\frac{\nabla^2\rho}{\rho}
-\frac{|\nabla\rho|^2}{\rho^2}\
+\frac{\nabla^2\rho}{\rho} -
+\frac{|\nabla\rho|^2}{\rho^2},\
 $$
-
-the dominant term becomes
+the variation can be rewriten as
 
 $$\
-\frac{\delta I_F}{\delta\rho}\
-\propto\
--\nabla^2\log\rho\
+\frac{\delta I_F}{\delta\rho}
+=\
+-2\nabla^2 \log\rho\
+-\
+\frac{|\nabla\rho|^2}{\rho^2}.\
 $$
 
-This result shows that minimizing Fisher information naturally produces the operator
-
-$$\
-\nabla^2\log\rho\
-$$
-
-which acts to smooth sharp density variations.
+The dominant term for smooth density variations is the linear operator $-\nabla^2\log\rho$, which drives the system toward configurations with minimal logarithmic curvature.
 
 ***
 
