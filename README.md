@@ -51,7 +51,7 @@ The 'core' document provides axioms and an serves as a guide to the other docume
     The reference document to guide the practical handling and documenting of the experimental ToAEx documents
 
 11. ToAEx-001 - Galactic Rotation via Informational Smoothing
-    The first ready to go test, awaiting scientists that wish to confirm that the ToAE can indeed explain Dark Matter
+    The first ready to go test, awaiting scientists that wish to confirm that the ToAE can indeed explain Dark Matter. Now with full derivations from first principles.
 
 ---
 
